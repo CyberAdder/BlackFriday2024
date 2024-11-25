@@ -1,4 +1,4 @@
-## Page contains Black Friday - Black Week - Cyber Monday 2024 deals.
+## 2024 Delas: Black Friday - Black Week - Cyber Monday
 
 ### Cloud Drives 
 - **icedrive** - https://icedrive.net/offers/black-friday-cyber-weekend-2024
