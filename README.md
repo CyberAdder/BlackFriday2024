@@ -3,7 +3,7 @@
 ### Cloud Drives Promotions
 - **filen** (1) - https://filen.io/pricing
 - **IceDrive** (2)- https://icedrive.net/offers/black-friday-cyber-weekend-2024
-- **internxt** (1) - https://internxt.com/black-friday
+- **Internxt** (1) - https://internxt.com/black-friday
 - **koofr** - https://koofr.eu/black-friday-2024/
 - **pCloud** (2) - https://landing.pcloud.com/BF2024
 - **Proton Drive** (1,2) - https://proton.me/drive/black-friday
