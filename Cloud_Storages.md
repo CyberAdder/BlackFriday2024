@@ -4,7 +4,6 @@
 - box - https://box.com 
 - Google Drive - https://drive.google.com/
 - Dropbox Storage - https://www.dropbox.com/
-- IBM 25GB Free Cloud Storage - https://www.ibm.com/cloud/free
 - Mega Cloud Encrypted Storage - https://mega.nz
 - Microsoft OneDrive - https://onedrive.live.com/about/en-us/signin/
 - Nextcloud - https://nextcloud.com/ 
