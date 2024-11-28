@@ -10,7 +10,7 @@
 - Sync Encrypted Cloud Storage = https://www.sync.com/
 - Tresorit Encrypted Cloud Storage = https://tresorit.com/
 
-## for photos 
+### for photos 
 - Lunapic w/TOR https://www5.lunapic.com/editor/
 - Flickr Free Photo Storage = https://www.flickr.com/
 - Piwigo FREE Photo Storage= https://piwigo.org/
