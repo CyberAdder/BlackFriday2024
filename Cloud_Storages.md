@@ -10,10 +10,6 @@
 - Sync Encrypted Cloud Storage - https://www.sync.com/
 - Tresorit Encrypted Cloud Storage - https://tresorit.com/
 
-### other
-- Tebi - https://tebi.io/
-- TeraBox - https://www.terabox.com/
-
 ### for photos 
 - Lunapic w/TOR - https://www5.lunapic.com/editor/
 - Flickr Free Photo Storage - https://www.flickr.com/
