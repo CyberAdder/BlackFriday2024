@@ -11,6 +11,6 @@
 - **tresorit** (2) - https://tresorit.com/cyber-sale/personal
 
 (1) recomended by https://www.privacytools.io/encrypted-cloud-storage  
-(2) end-2-end encryption 
+(2) end-2-end encryption (E2EE)
 
 If you need a cloud storage solution with block-level synchronization capabilities - only clouds like Dropbox, OneDrive, pCloud, and Amazon Drive support it. 
