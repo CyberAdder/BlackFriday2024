@@ -6,7 +6,7 @@
 - **Internxt** (1) - https://internxt.com/black-friday
 - **koofr** - https://koofr.eu/black-friday-2024/
 - **pCloud** (2) - https://landing.pcloud.com/BF2024
-- **Proton Drive** (1,2) - https://proton.me/drive/black-friday
+- **Proton Drive** (1, 2) - https://proton.me/drive/black-friday
 - **sync** (2) - https://www.sync.com/blackfriday2024
 - **tresorit** (2) - https://tresorit.com/cyber-sale/personal
 
