@@ -1,7 +1,7 @@
 ## 2024 Delas: Black Friday - Black Week - Cyber Monday
 
 ### Cloud Drives Promotions
-- **filen** (1) - https://filen.io/pricing
+- **filen** (1) - https://filen.io/pricing 
 - **IceDrive** (2)- https://icedrive.net/offers/black-friday-cyber-weekend-2024
 - **Internxt** (1) - https://internxt.com/black-friday
 - **koofr** - https://koofr.eu/black-friday-2024/
@@ -14,3 +14,6 @@
 (2) end-2-end encryption (E2EE)
 
 If you need a cloud storage solution with block-level synchronization capabilities - only clouds like Dropbox, OneDrive, pCloud, and Amazon Drive support it. 
+
+For new filen account, use link below, please. It give you 10GB more surface.
+https://filen.io/r/2e4f803d48719f4f735956afc2d704b1
