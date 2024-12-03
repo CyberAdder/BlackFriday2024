@@ -15,5 +15,5 @@
 
 If you need a cloud storage solution with block-level synchronization capabilities - only clouds like Dropbox, OneDrive, pCloud, and Amazon Drive support it. 
 
-For new filen account, use link below, please. It give you 10GB more surface.
+For new filen account, use link below, please. It give you 10GB more surface. 
 https://filen.io/r/2e4f803d48719f4f735956afc2d704b1
